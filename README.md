@@ -1,2 +1,2 @@
 # Site-de-viagens-
-Projeto do curso de desenvolvimento 
+Projeto do curso de desenvolvimento web
